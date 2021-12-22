@@ -13,5 +13,5 @@ public class Offer {
     private String localization;
     private String email;
     private String phone;
-
+    private double price;
 }

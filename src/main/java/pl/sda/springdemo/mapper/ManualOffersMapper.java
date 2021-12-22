@@ -20,6 +20,7 @@ public class ManualOffersMapper implements OffersMapper {
         target.setLocalization(source.getLocalization());
         target.setEmail(source.getEmail());
         target.setPhone(source.getPhone());
+        target.setPrice(source.getPrice());
 
         target.setSubcategory(subcategoriesRepository.getById(source.getSubcategoryId()).get());
 
