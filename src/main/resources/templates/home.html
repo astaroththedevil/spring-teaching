@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home</title>
+</head>
+<body>
+<style>
+    *, *:after, *:before {
+        box-sizing: border-box;
+        margin: 0;
+        padding: 0;
+    }
+
+    body {
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+    }
+
+    img {
+        height: 300px;
+    }
+
+    .buttons {
+        display: flex;
+        justify-content: space-between;
+        margin-top: 2rem;
+        width: 40vw;
+    }
+
+    button {
+        width: 8rem;
+        height: 6rem;
+        padding: 1rem;
+    }
+
+</style>
+
+<img th:src="@{/images/exclamation-mark-gc70d19eb3_1920.jpg}"/>
+
+<div class="buttons">
+    <button>Przeglądaj ogłoszenia</button>
+    <button th:onclick="|window.location.href='/offers/form'|">Nowe ogłoszenie</button>
+    <button>Zarejestruj się</button>
+</div>
+
+
+</body>
+</html>
