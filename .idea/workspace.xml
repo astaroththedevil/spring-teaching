@@ -4,18 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="f80b6640-7da1-4c3c-b627-c842996f8d14" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/Maven__jakarta_validation_jakarta_validation_api_2_0_2.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/pl/sda/springdemo/controller/OffersSiteController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/resources/templates/offers.html" afterDir="false" />
+    <list default="true" id="f80b6640-7da1-4c3c-b627-c842996f8d14" name="Changes" comment="offers.html">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/spring-demo.iml" beforeDir="false" afterPath="$PROJECT_DIR$/spring-demo.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/springdemo/dto/OfferDto.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/springdemo/dto/OfferDto.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/springdemo/mapper/ManualOffersMapper.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/springdemo/mapper/ManualOffersMapper.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/pl/sda/springdemo/model/Offer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/pl/sda/springdemo/model/Offer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/templates/home.html" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/templates/home.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -93,8 +83,18 @@
       <option name="presentableId" value="Default" />
       <updated>1640181821958</updated>
       <workItem from="1640181823070" duration="173000" />
-      <workItem from="1640182007210" duration="5678000" />
+      <workItem from="1640182007210" duration="6683000" />
+      <workItem from="1640249929305" duration="604000" />
+      <workItem from="1641202051655" duration="15000" />
     </task>
+    <task id="LOCAL-00001" summary="offers.html">
+      <created>1640188276248</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1640188276248</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -110,5 +110,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="offers.html" />
+    <option name="LAST_COMMIT_MESSAGE" value="offers.html" />
   </component>
 </project>
